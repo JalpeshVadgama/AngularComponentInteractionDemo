@@ -1,0 +1,6 @@
+<h1>Angular Component interaction demo</h1>
+<app-message
+  messageFromParent="Hey child component"
+  (childEvent)="messageFromParent = $event"
+></app-message>
+<h3>{{ messageFromParent }}</h3>
