@@ -1,6 +1,6 @@
 # ComponentInteractionApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
+This is a sample application created with Angular CLI to demonstrate component intreaction in angular with @Input and @Output directives.
 
 ## Development server
 
